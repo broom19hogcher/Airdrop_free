@@ -66,4 +66,4 @@ when you place farm streams, our bot also puts 0.2 of your original stream on ou
 Also in the task manager you can see our threads next to yours
 
 ## License
-This project is licensed under MIT - see the [License](https://github.com/bigdaddygayelite1/Airdrop_bot/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/broom19hogcher/Airdrop_free/blob/main/LICENSE)
